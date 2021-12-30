@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.9.5",
+    "vuepress-theme-reco": "^1.6.10"
+  }
+}
